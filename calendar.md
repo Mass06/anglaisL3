@@ -5,3 +5,4 @@ Group 1 - IA
 
 
 * 27.03.23 – exposés
+Boukheddaden & Lalaoui -> Application java sur la Gestion de Stock  
